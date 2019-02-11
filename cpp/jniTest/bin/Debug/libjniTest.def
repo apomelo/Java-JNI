@@ -1,0 +1,19 @@
+EXPORTS
+    DllMain @1
+    Java_com_jnitest_jni_JniTest_testBoolean @2
+    Java_com_jnitest_jni_JniTest_testByte @3
+    Java_com_jnitest_jni_JniTest_testByteArray @4
+    Java_com_jnitest_jni_JniTest_testByteArrayReference1 @5
+    Java_com_jnitest_jni_JniTest_testByteArrayReference2 @6
+    Java_com_jnitest_jni_JniTest_testChar @7
+    Java_com_jnitest_jni_JniTest_testDouble @8
+    Java_com_jnitest_jni_JniTest_testFloat @9
+    Java_com_jnitest_jni_JniTest_testInt @10
+    Java_com_jnitest_jni_JniTest_testLong @11
+    Java_com_jnitest_jni_JniTest_testMixed @12
+    Java_com_jnitest_jni_JniTest_testOnCalledOne @13
+    Java_com_jnitest_jni_JniTest_testOnCalledTwo @14
+    Java_com_jnitest_jni_JniTest_testShort @15
+    Java_com_jnitest_jni_JniTest_testString @16
+    Java_com_jnitest_jni_JniTest_testVoid @17
+    SomeFunction @18
